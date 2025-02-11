@@ -209,8 +209,7 @@ button {
     transition: 300ms ease-in;
     transition-property: color;
   }
-  .nav-item {
-  }
+  
   .nav-link:hover,
   .nav-link:focus {
     color: #fd9222;
